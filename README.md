@@ -1,4 +1,4 @@
-### Hi 👋 I'm Craig.
+### 👋 Hi, I'm Craig.
 
 I'm a developer based in Glasgow, Scotland currently working at Castlight (a part of Experian).
 

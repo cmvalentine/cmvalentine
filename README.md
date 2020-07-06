@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm Craig.
+
+I'm a developer based in Glasgow, Scotland currently working at Castlight (a part of Experian).
 
 <!--
 **cmvalentine/cmvalentine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

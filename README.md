@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Craig.
 
-I'm a software developer from Scotland currently working at [Care Sourcer](https://www.caresourcer.com).
+I'm a software developer from Scotland.
 
 <!--
 **cmvalentine/cmvalentine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

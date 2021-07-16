@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Craig.
 
-I'm a software developer from Scotland currently working at Ooni Pizza Ovens 🍕.
+I'm a software developer from Scotland currently working at Ooni Pizza Ovens 🍕
 
 <!--
 **cmvalentine/cmvalentine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
